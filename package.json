@@ -1,5 +1,8 @@
 {
   "name": "graphql-api-project",
+  "engines": {
+    "node": "20.x"
+  },
   "version": "1.0.0",
   "scripts": {
     "install": "cd backend && rm -rf node_modules package-lock.json && npm install && cd ../frontend && npm install",
