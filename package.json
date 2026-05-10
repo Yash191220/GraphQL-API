@@ -2,7 +2,7 @@
   "name": "graphql-api-project",
   "version": "1.0.0",
   "scripts": {
-    "install": "cd backend && npm install && cd ../frontend && npm install",
+    "install": "cd backend && rm -rf node_modules package-lock.json && npm install && cd ../frontend && npm install",
     "build": "cd frontend && npm run build",
     "start": "cd backend && npm start"
   }
