@@ -2,6 +2,8 @@
 
 A modern, full-stack web application for managing tasks, built to demonstrate the power of GraphQL APIs combined with a sleek React frontend. 
 
+🌍 **Live Demo:** [https://yashraj-graphql-api.onrender.com](https://yashraj-graphql-api.onrender.com)
+
 ## ✨ Features
 
 * **User Authentication**: Secure user registration and login using JSON Web Tokens (JWT).
